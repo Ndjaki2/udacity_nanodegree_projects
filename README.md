@@ -18,7 +18,7 @@ This __Wrangle and Analyze data__ project is about wrangling _WeRateDogs_ Twitte
 
 ## Project 3
 
-1. This __Communicate Data Findings__ project has two parts that should demonstrate the importance and value of data visualization techniques in the data analysis process.
+This __Communicate Data Findings__ project has two parts that should demonstrate the importance and value of data visualization techniques in the data analysis process.
 
-2. In Part I, __Exploratory data visualization__, I use Python visualization libraries to explore the _Ford-GoBike-TravelData_ data set, a San Francisco bike sharing system, starting from plots of single variables and building up to plots of multiple variables.
-In Part II, __Explanatory data visualization__, I make a short presentation that illustrates interesting properties, trends, and relationships that I discovered in my exploration.
+1. In Part I, __Exploratory data visualization__, I use Python visualization libraries to explore the _Ford-GoBike-TravelData_ data set, a San Francisco bike sharing system, starting from plots of single variables and building up to plots of multiple variables.
+2. In Part II, __Explanatory data visualization__, I make a short presentation that illustrates interesting properties, trends, and relationships that I discovered in my exploration.
