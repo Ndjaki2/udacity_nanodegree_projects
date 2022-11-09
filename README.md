@@ -4,7 +4,7 @@
 
 ## Introduction
 
-This is a brief presentation of the first three projects I have worked on, as part of the Udacity Data Analysis Nanodegree
+This is a brief presentation of the first three projects I have worked on, as part of the Udacity/ALX-T Data Analysis Nanodegree
 
 
 ## Project 1
